@@ -11,6 +11,7 @@ namespace hubbbb
         static void Main(string[] args)
         {
             Console.WriteLine("Здравствуйте!");
+            Console.WriteLine("Hello");
         }
     }
 }
